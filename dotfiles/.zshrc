@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/nadinagerlach/.oh-my-zsh
+export ZSH=/Users/ngerlach/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -9,7 +9,7 @@ ZSH_THEME="agnoster"
 
 # Default User
 # for some reason not working; just removes the user entirely
-# DEFAULT_USER="nadinagerlach"
+# DEFAULT_USER="ngerlach"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -57,7 +57,7 @@ plugins=(git cloudapp node npm bower brew osx extract z)
 
 # User configuration
 
-export PATH="/usr/local/heroku/bin:/Users/nadinagerlach/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin"
+export PATH="/usr/local/heroku/bin:/Users/ngerlach/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh

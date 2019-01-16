@@ -63,7 +63,7 @@
 	- [ ] Install [Powerline patched fonts](https://github.com/powerline/fonts/)
 - [ ] Install Ruby
 	- [ ] Install rbenv via Homebrew: `brew install rbenv`.
-	- [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.6.0`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
+	- [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.6.0`). 
 	- [ ] Make it the global version of Ruby: `rbenv global 2.6.0`.
 - [ ] Install misc dependencies
 	- [ ] Install Git, Node, Yarn via Homebrew: `brew install git node yarn`

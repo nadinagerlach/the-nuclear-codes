@@ -42,4 +42,4 @@ txtrst='\e[0m'    # Text Reset
 
 # be sure to wrap colors in \[$color_name\]
 
-export PS1="\[$txtblu\]|===jglovier===| \[$txtgrn\]\w \[$txtred\]$\[$txtrst\] "
+export PS1="\[$txtblu\]|===ngerlach===| \[$txtgrn\]\w \[$txtred\]$\[$txtrst\] "
