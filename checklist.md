@@ -45,6 +45,7 @@
 	- [ ] Install [user style for GitHub.com](https://gist.github.com/jglovier/2dff3507d9ee007f6ce4)
 	- [ ] Log in to personal / work profiles, download extensions, configure 1Pass
 - [ ] [GitKraken](https://gitkraken.com)
+- [ ] [Postman](https://www.postman.com/)
 - [ ] [Postico](https://positico.com)
 - [ ] [ImageOptim](https://imageoptim.com/) for optimizing ALL OF THE PNGS/JPGS
 - [ ] [CleanMyMac](http://macpaw.com/cleanmymac) for keeping the machine so fresh and so clean
@@ -68,7 +69,6 @@
 - [ ] Install misc dependencies
 	- [ ] Install Git, Node, Yarn via Homebrew: `brew install git node yarn`
 	- [ ] Install React via npm: `npm install -g create-react-app`
-	- [ ] Install Sass, Jekyll: `gem install sass jekyll`.
 
 ## Visual Studio Code
 - [ ] Enable `code-insiders` Terminal commands: from VSCode app, View>Command Palette> *Install Shell Commands*
